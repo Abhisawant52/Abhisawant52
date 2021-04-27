@@ -9,8 +9,30 @@ Currently Improving my React skills
 
 ## Find me around the web :earth_africa: :
 
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.2]][1]
+[![alt text][2.2]][2]
+[![alt text][6.2]][6]
+
+
+
+
+
+
+[1.2]: http://i.imgur.com/wWzX9uB.png 
+[2.2]: http://i.imgur.com/fep1WsG.png 
+[6.2]: http://i.imgur.com/9I6NRUm.png 
+
+[1]: https://twitter.com/Abhishe6621873
+[2]: https://www.linkedin.com/in/abhishek-sawant-7986941b1
+[6]: https://github.com/Abhisawant52/
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisawant52&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisawant52&hide=prs)
 
 
