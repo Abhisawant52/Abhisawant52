@@ -11,9 +11,9 @@ Currently Improving my React skills
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.2]][1]
-[![alt text][2.2]][2]
-[![alt text][6.2]][6]
+- [![alt text][1.2]][1]
+- [![alt text][2.2]][2]
+- [![alt text][6.2]][6]
 
 
 
