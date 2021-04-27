@@ -8,3 +8,5 @@ I learned a lot from the open-source community and I love how collaboration and 
 Currently Improving my React skills
 
 ## Find me around the web :earth_africa: :
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Abhisawant52)
