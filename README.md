@@ -9,4 +9,4 @@ Currently Improving my React skills
 
 ## Find me around the web :earth_africa: :
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Abhisawant52)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisawant52&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
