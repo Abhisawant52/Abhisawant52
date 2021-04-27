@@ -11,9 +11,10 @@ Currently Improving my React skills
 
 <!-- display the social media buttons in your README -->
 
-- [![alt text][1.2]][1]
-- [![alt text][2.2]][2]
-- [![alt text][6.2]][6]
+- [![tiwtter][1.2]][1]
+- [![facebook][2.2]][2]
+- [![LinkedIn][3.2]][3]
+- [![google][6.2]][6]
 
 
 
@@ -21,11 +22,13 @@ Currently Improving my React skills
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: http://i.imgur.com/fep1WsG.png 
+[2.2]: http://i.imgur.com/fep1WsG.png
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 [6.2]: http://i.imgur.com/9I6NRUm.png 
 
 [1]: https://twitter.com/Abhishe6621873
-[2]: https://www.linkedin.com/in/abhishek-sawant-7986941b1
+[2]: https://www.facebook.com/profile.php?id=100006130181720
+[3]: https://www.linkedin.com/in/abhishek-sawant-7986941b1
 [6]: https://github.com/Abhisawant52/
 
 
