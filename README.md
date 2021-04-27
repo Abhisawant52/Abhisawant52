@@ -11,10 +11,10 @@ Currently Improving my React skills
 
 <!-- display the social media buttons in your README -->
 
-- Twitter [![tiwtter][1.2]][1]
-- Facebook [![facebook][2.2]][2]
-- Linkedin [![LinkedIn][3.2]][3]
-- Github [![google][6.2]][6]
+- [![tiwtter][1.2]][1] Twitter
+- [![facebook][2.2]][2] Facebook
+- [![LinkedIn][3.2]][3] Linkedin
+- [![google][6.2]][6] Github
 
 
 
